@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alfredo's AI quizbot", "alfredo's AI quizbot\alfredo's AI quizbot.csproj", "{17C6CFB0-B50E-4A9E-85B8-8046DA62B260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C6CFB0-B50E-4A9E-85B8-8046DA62B260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C6CFB0-B50E-4A9E-85B8-8046DA62B260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C6CFB0-B50E-4A9E-85B8-8046DA62B260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C6CFB0-B50E-4A9E-85B8-8046DA62B260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE111C52-CC9A-4070-90C9-43D8E9C9205A}
+	EndGlobalSection
+EndGlobal
